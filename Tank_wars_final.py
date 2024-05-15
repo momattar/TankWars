@@ -37,9 +37,9 @@ class Game:
     def load_textures(self):
         texture_name = [0, 1, 2, 3]
         self.textures = [
-            functions.loadTexture("images/test_2.jpg", texture_name[0]),
-            functions.loadTexture("images/about_test_2.jpg", texture_name[1]),
-            functions.loadTexture("images/beige.jpg", texture_name[2]),
+            functions.loadTexture("images/Intro scene.jpg", texture_name[0]),
+            functions.loadTexture("images/About scene.jpg", texture_name[1]),
+            functions.loadTexture("images/Game Background.jpg", texture_name[2]),
             functions.loadTexture("images/tryagain.jpg", texture_name[3])
         ]
 
