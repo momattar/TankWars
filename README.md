@@ -42,3 +42,10 @@ MouseLeftClick --> Shooting💣
 
 Q --> Quit
 
+
+
+
+## 🎪 Contributors:
+
+- [Hamza Mahrous](https://github.com/hamzamahrous)
+- [Ziad Ghoraba](https://github.com/Ziad-Ghoraba)
